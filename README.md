@@ -1,7 +1,7 @@
 # Olá, Meu nome é Guilherme! Mas pode me chamar de *Gillie* 👋
 
 - 🔭 Procurando uma oportunidade como Dev Júnior
-- 🌱 Aprendendo Java com Spring e AngularJS
+- 🌱 Aprendendo Java com Spring e Front-end com AngularJS
 - 💬 Meu email é: miscildes@gmail.com
 - 📫 Meu LinkeIn é: https://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/
 - 😄 Pronomes: Ele/Dele o/a
