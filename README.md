@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, Meu nome é Guilherme! Mas pode me chamar de *Gillie* 👋
 
-<!--
-**miscildes/miscildes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Procurando uma oportunidade como Dev Júnior
+- 🌱 Aprendendo Java com Spring e AngularJS
+- 💬 Meu email é: miscildes@gmail.com
+- 📫 Meu LinkeIn é: https://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/
+- 😄 Pronomes: Ele/Dele o/a
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+        <a href="https://beacons.ai/miscildes"></a>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=miscildes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscildes&layout=compact)](https://github.com/miscildes/github-readme-stats)">
+</div>
+
+
+<div class="inline-block"> <br>
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img align:"center" height="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+</div>
