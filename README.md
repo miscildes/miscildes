@@ -1,9 +1,9 @@
 # Olá, Meu nome é Guilherme! Mas pode me chamar de *Gillie* 👋
 
-- 🔭 Sou Desenvolvedor Junior na Prodap
+- 🔭 Sou Desenvolvedor Junior
 - 🌱 Aprendendo Java com Android Studio
 - 💬 Meu email é: miscildes@gmail.com
-- 📫 Meu LinkedIn é: https://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/
+- 📫 Meu LinkedIn é: https://www.linkedin.com/in/gillie-ferreira/
 - 😄 Pronomes: Ele/Dele o/a
 
 
