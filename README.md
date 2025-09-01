@@ -1,10 +1,10 @@
-# Olá, Meu nome é Guilherme! Mas pode me chamar de *Gillie* 👋
+# Olá, Meu nome é Gillie!* 👋
 
-- 🔭 Sou Desenvolvedor Junior
-- 🌱 Aprendendo Java com Android Studio
+- 🔭 Estudante de Ciência de Dados
+- 🌱 Aprendendo Python para análise de dados
 - 💬 Meu email é: miscildes@gmail.com
 - 📫 Meu LinkedIn é: https://www.linkedin.com/in/gillie-ferreira/
-- 😄 Pronomes: Ele/Dele o/a
+- 😄 Pronomes: Ele/Dele
 
 
 <div>
